@@ -10,5 +10,5 @@ import CustomerList from '../components/customers/CustomerList.vue';
 </template>
 
 <style scoped>
-/* Vous pouvez ajouter des styles ici */
+
 </style>
