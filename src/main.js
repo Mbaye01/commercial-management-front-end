@@ -7,7 +7,6 @@ import router from "./router";
 // Import Bootstrap styles and scripts
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
-import "bootstrap";
 // Import Font Awesome
 import "@fortawesome/fontawesome-free/css/all.css";
 
