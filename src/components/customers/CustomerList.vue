@@ -268,11 +268,4 @@ const closeViewCustomerModal = () => {
   }
 
   
-/* .custom-modal-width {
-  max-width: 800px;
-} */
-/* .custom-modal-height .modal-content {
-    max-height: 500px; 
-    overflow-y: auto; 
-  } */
 </style>
