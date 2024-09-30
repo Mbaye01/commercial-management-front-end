@@ -17,13 +17,13 @@ Suivez ces étapes pour configurer le projet sur votre machine locale :
 1. **Clonez le repository :**
 
 ```bash
-git clone  https://github.com/Mbaye01/front-end-dynamique.git
+git clone  https://github.com/Mbaye01/commercial-management-front-end.git
 ```
 
 2. **Accédez au dossier du projet :**
 
 ```bash
-cd front-end-dynamique
+cd commercial-maangement-front-end
 ```
 
 3. **Installez les dépendances :**
@@ -50,4 +50,4 @@ Ce projet nécessite de l'amélioration consisatant à :
 
 ## Auteur
 
-[Mbaye Abdellahi kalidou ](https://github.com/Mbaye01/front-end-dynamique.git)
+[Mbaye Abdellahi kalidou ](https://github.com/Mbaye01/commercial-management-front-end.git)
