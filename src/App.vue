@@ -2,17 +2,15 @@
  <div id="app">
       
     <header>
-      <Navbar />
+      <navbar />
     </header>
 
     <router-view/>
   </div>
 </template>
 <script setup>
- import Navbar from './Navbar.vue'
+import { Navbar } from ' ./navbar.vue';
 </script>
-
-
 <style scoped>
 
 </style>
