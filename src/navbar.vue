@@ -25,7 +25,7 @@
 </template>
 
 <style scoped>
-.navbar-nav {
+.Navbar-nav {
   display: flex;
   padding: 0;
   list-style: none;
@@ -40,8 +40,9 @@
 }
 
 .nav-link.active {
-  color: #ff0022;
   font-weight: bold;
+  background-color: #89b2ec;
+  
 }
 
 .container {

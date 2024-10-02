@@ -50,4 +50,4 @@ Ce projet nécessite de l'amélioration consisatant à :
 
 ## Auteur
 
-[Mbaye Abdellahi kalidou ](https://github.com/Mbaye01/commercial-management-front-end.git)
+[Mbaye Abdellahi Kalidou ](https://github.com/Mbaye01/commercial-management-front-end.git)
